@@ -1,6 +1,6 @@
 # LearningPythonFromCourses
 Collection of snippets of example codes that I've tried to run and tweak, as well as any code I've written for assignments.
-I have added PseudoCodes as well as extensive comments where possible. 
+I have added PseudoCodes as well as any additional comments where possible. 
 Here's an article I recently read on good commenting. http://www.pybloggers.com/2018/07/documenting-python-code-a-complete-guide/
 https://realpython.com/documenting-python-code/
 ## Coursera Courses
