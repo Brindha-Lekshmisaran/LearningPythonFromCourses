@@ -11,7 +11,7 @@ https://realpython.com/documenting-python-code/
     a) Practice lab https://labs.cognitiveclass.ai
 
 ## EdX courses
-1. [Computing in Python III: Data structures](https://courses.edx.org/courses/course-v1:GTx+CS1301xIII+1T2018/course/)
+1. [Computing in Python III: Data structures](https://courses.edx.org/courses/course-v1:GTx+CS1301xIII+1T2018/course/), Georgia Institute of Technology 
     a) Practice lab https://mhlearnsmart.com/flow/smartbook.html
 
 #Other online sources
