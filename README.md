@@ -1,8 +1,7 @@
 # LearningPythonFromCourses
-Collection of snippets of example codes that I've tried to run and tweak, as well as any code I've written for assignments.
+Collection of codes that I've written for assignments from courses, as well as Collection of example codes that I've tried to run or tweak from the courses.
 I have added PseudoCodes as well as any additional comments where possible. 
-Here's an article I recently read on good commenting. http://www.pybloggers.com/2018/07/documenting-python-code-a-complete-guide/
-https://realpython.com/documenting-python-code/
+
 ## Coursera Courses
 1. Python For Everybody. Uni of Michigan. https://www.coursera.org/learn/python/
 2. Python for Data Science, IBM. https://www.coursera.org/learn/python-for-applied-data-science
@@ -19,3 +18,5 @@ https://www.w3resource.com/python-exercises/string/
 https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises.txt
 https://stackoverflow.com
         
+Here's an article I recently read on good commenting. http://www.pybloggers.com/2018/07/documenting-python-code-a-complete-guide/
+https://realpython.com/documenting-python-code/
