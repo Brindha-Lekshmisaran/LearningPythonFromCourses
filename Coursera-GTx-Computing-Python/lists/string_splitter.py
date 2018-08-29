@@ -27,7 +27,7 @@ Solution attempted by Brindha Lekshmisaran
 
 
 #Write your function here!
-def string_splitter(myStr):
+def string_splitter(myStr): 
      '''
      Write a function to replicate python split() function
      '''
